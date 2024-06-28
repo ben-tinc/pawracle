@@ -1,0 +1,29 @@
+match,date,home,away,result,lokiTipp,lokiSide,siggiTipp,siggiSide,spencerTipp,spencerSide,darkoTipp,darkoSide,pointsForWin,numOfPossibleTipps
+match1,14.06.24,Germany,Scotland,H,U,M,U,M,U,M,H,L,1,3
+match2,15.06.24,Italy,Albania,H,A,L,H,R,H,L,A,L,1,3
+match3,16.06.24,Serbia,England,A,U,M,A,M,A,M,U,M,1,3
+match4,17.06.24,Austria,France,A,U,M,U,R,A,R,A,L,1,3
+match5,18.06.24,Portugal,Czech Republic,H,A,L,H,R,H,R,A,R,1,3
+match6,19.06.24,Scotland,Switzerland,U,H,L,A,R,U,M,U,M,1,3
+match7,20.06.24,Spain,Italy,H,U,M,A,L,U,M,H,L,1,3
+match8,21.06.24,Netherlands,France,U,U,M,U,L,H,L,U,M,1,3
+match9,22.06.24,Belgium,Romania,H,H,L,H,R,A,R,A,L,1,3
+match10,23.06.24,Germany,Switzerland,U,H,L,A,R,A,M,U,M,1,3
+match11,24.06.24,Croatia,Italy,U,H,L,U,M,U,M,A,L,1,3
+match12,25.06.24,Denmark,Serbia,U,A,L,H,R,H,M,A,L,1,3
+match13,26.06.24,Czech Republic,Turkey,A,H,L,A,M,U,R,A,L,1,3
+match14,29.06.24,Switzerland,Italy,x,o,s,o,s,o,s,o,s,2,2
+match15,29.06.24,Germany,Denmark,x,o,s,o,s,o,s,o,s,2,2
+match16,30.06.24,England,Slovakia,x,o,s,o,s,o,s,o,s,2,2
+match17,30.06.24,Spain,Georgia,x,o,s,o,s,o,s,o,s,2,2
+match18,01.07.24,France,Belgium,x,o,s,o,s,o,s,o,s,2,2
+match19,01.07.24,Portugal,Slovenia,x,o,s,o,s,o,s,o,s,2,2
+match20,02.07.24,Romania,Netherlands,x,o,s,o,s,o,s,o,s,2,2
+match21,02.07.24,Austria,Turkey,x,o,s,o,s,o,s,o,s,2,2
+match22,05.07.24,xxx,yyy,x,o,s,o,s,o,s,o,s,2,2
+match23,05.07.24,xxx,yyy,x,o,s,o,s,o,s,o,s,2,2
+match24,06.07.24,xxx,yyy,x,o,s,o,s,o,s,o,s,2,2
+match25,06.07.24,xxx,yyy,x,o,s,o,s,o,s,o,s,2,2
+match26,09.07.24,xxx,yyy,x,o,s,o,s,o,s,o,s,2,2
+match27,10.07.24,xxx,yyy,x,o,s,o,s,o,s,o,s,2,2
+match28,14.07.24,xxx,yyy,x,o,s,o,s,o,s,o,s,2,2
