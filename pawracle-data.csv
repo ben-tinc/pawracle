@@ -22,8 +22,8 @@ match20,02.07.24,Romania,Netherlands,A,H,L,H,L,H,L,H,L,2,2
 match21,02.07.24,Austria,Turkey,A,H,L,H,L,H,R,A,R,2,2
 match22,05.07.24,Spain,Germany,H,H,L,H,L,H,R,A,R,2,2
 match23,05.07.24,Portugal,France,A,H,L,A,R,A,R,H,L,2,2
-match24,06.07.24,England,Switzerland,x,o,s,o,s,o,s,o,s,2,2
-match25,06.07.24,Netherlands,Turkey,x,o,s,o,s,o,s,o,s,2,2
+match24,06.07.24,England,Switzerland,x,H,L,A,R,H,L,H,L,2,2
+match25,06.07.24,Netherlands,Turkey,x,H,L,H,L,A,R,A,L,2,2
 match26,09.07.24,xxx,yyy,x,o,s,o,s,o,s,o,s,2,2
 match27,10.07.24,xxx,yyy,x,o,s,o,s,o,s,o,s,2,2
 match28,14.07.24,xxx,yyy,x,o,s,o,s,o,s,o,s,2,2
